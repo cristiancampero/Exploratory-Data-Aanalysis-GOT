@@ -1,4 +1,4 @@
-# Exploratory-Data-Aanalysis-GOT
+# Exploration and visualization analysis of the Game of Thrones Deaths
 
 - Exploration [here](Exploration.sql)
 - Visualizations

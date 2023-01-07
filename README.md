@@ -32,4 +32,4 @@ Para visualizar los datos de manera atractiva y fácilmente comprensible, se uti
 
 Visualización en [Tableou Public](https://public.tableau.com/app/profile/cristiancampero/viz/GameOfThronesDataViz_16664194240580/GOTDeaths)
 
-Descargar archivo de Power BI [aquí](files\PowerBI-GOTDeaths.pbix)
+Descargar archivo de Power BI [aquí](https://github.com/cristiancampero/Exploration-and-visualization-analysis/blob/main/files/PowerBI-GOTDeaths.pbix)

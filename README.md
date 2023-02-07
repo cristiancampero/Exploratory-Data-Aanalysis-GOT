@@ -55,7 +55,7 @@
 
 </br>
 
-## Acerca del Dataset
+## Dataset
 
 ### Dataset utilizado para este proyecto [aquí](https://github.com/cristiancampero/Games-of-thrones-deaths-analysis/blob/main/files/game-of-thones-deaths.xlsx)
 

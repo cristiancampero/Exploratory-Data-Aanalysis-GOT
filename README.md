@@ -17,7 +17,7 @@
 
 ---
 
-## Analisis
+## Análisis
 
 </br>
 
@@ -49,7 +49,7 @@
 
 <p align="center"><img src="screenshots\episodes.png"/></br></p>
 
-* La mayor cantidad de muertes por episodio se dio en la última temporada, en el quinto episodio con 844 muertes. En segundo lugar que do el episodio 4 de la séptima temporada con 205 y en tercer lugar el último episodio de la temporada 6.
+* La mayor cantidad de muertes por episodio se dio en la última temporada, en el quinto episodio con 844 muertes. En segundo lugar quedo el episodio 4 de la séptima temporada con 205 y en tercer lugar el último episodio de la temporada 6.
 
 ---
 
@@ -77,5 +77,5 @@
 
 <p align="center"><img src="screenshots\tableau_dashboard.png"/></p>
 
-### Tambien puedes ver el mismo dashboard en la página de [Tableau Public](https://public.tableau.com/app/profile/cristiancampero/viz/GameOfThronesDataViz_16664194240580/GOTDeaths)
+### Tambien puedes ver el mismo dashboard en mi perfil de [Tableau Public](https://public.tableau.com/app/profile/cristiancampero/viz/GameOfThronesDataViz_16664194240580/GOTDeaths)
 
